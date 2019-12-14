@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My UserExperience</string>
+    <string name="description1">Delicious cakes with fish and beef, hot from fire</string>
+    <string name="description2">Hot Puff Puff and beans, done with vegetable oil.</string>
+    <string name="description3">French fries, you can accompany it with egg, stew etc.</string>
+    <string name="description4">Horn cakes, with beef, pork, chicken, eggs, depending on your choise</string>
+    <string name="descrption5">Puff puff, gateux and pap, wonderful delicacy ro beign the day with</string>
+    <string name="next_day_ground_delivery">Deliver the next day</string>
+    <string name="same_day_messenger_service">Delivery same day by messenger service</string>
+    <string name="pick_up">Pick up</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
